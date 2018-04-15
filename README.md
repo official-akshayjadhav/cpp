@@ -1,2 +1,2 @@
-# C-
+# CPP
 C++ conceptual programmnig / snippets
